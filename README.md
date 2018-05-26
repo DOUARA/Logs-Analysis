@@ -24,7 +24,7 @@ CREATE DATABASE news;
 ```
 > Download newsdata.sql from [here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip).
 
-# Runing the program 
+# Running the program 
 from within Logs-Analysis folder run script.py file:
 ```
 python script.py
